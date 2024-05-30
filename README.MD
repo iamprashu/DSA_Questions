@@ -9,7 +9,7 @@
 Fuelled by boundless passion for DevOps and cloud technologies ☁️☁️☁️ ☁️, I'm on an exhilarating journey of mastery of Computer Application (MCA). <br> I'm not just learning; I'm devouring DevOps principles and cloud tech, crafting the future through relentless innovation and automation. 😉
 
  📚 I’m currently learning :<br>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> C++ <br> 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> C++ <br> ✅
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> Python<br> 
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> AWS <br> 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> MySql <br> 
