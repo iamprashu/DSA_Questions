@@ -9,12 +9,12 @@
 Fuelled by boundless passion for DevOps and cloud technologies ☁️☁️☁️ ☁️, I'm on an exhilarating journey of mastery of Computer Application (MCA). <br> I'm not just learning; I'm devouring DevOps principles and cloud tech, crafting the future through relentless innovation and automation. 😉
 
  📚 I’m currently learning :<br>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> C++ <br> ✅
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> Python<br> 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> C++ ✅ <br> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> Python ✅<br> 
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> AWS <br> 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> MySql <br> 
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> Git and Github <br> 
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> Linux System Administration <br> 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> Git and Github ✅<br> 
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> Linux System Administration ✅ <br> 
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> Jenkins And Other DevOps Tools.
 
 💬 Ask me about Linux, Servers, DevOps, Cloud, and any Tech-related stuff.
