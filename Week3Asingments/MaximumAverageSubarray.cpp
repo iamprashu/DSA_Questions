@@ -4,7 +4,7 @@
 using namespace std;
 
 double BruiteForce(vector<int>arr,int &k){
-    int i=0, j = k - 1, MAX_SUM=INT16_MIN;
+    int i=0, j = k - 1, MAX_SUM=-123456;
 
     while (j<arr.size())
     {
@@ -27,8 +27,10 @@ double BruiteForce(vector<int>arr,int &k){
 
 double MaximumAverage(vector<int>arr,int k){
     int i=0; int j=k-1;
-    int maxsum=INT16_MIN;
+
+    int maxsum=-12345678;
     int sum=0;
+
     for(int s=0; s<=j; s++){
         sum+=arr[s];
     }
@@ -46,7 +48,7 @@ double MaximumAverage(vector<int>arr,int k){
 }
 
 int main(){
-    vector<int>arr{1,12,-5,-6,50,3};
+    vector<int>arr{4,0,4,3,3};
     int k=4;
     //cout<<BruiteForce(arr,k);
     cout<<MaximumAverage(arr,k)<<endl;
