@@ -5,26 +5,25 @@
 using namespace std;
 
 vector<int>commonElements(int A[], int B[], int C[], int n1, int n2, int n3){
-    // First i am initilizing 3 pointers to triverse 3 arrays
+    // First i am initilizing 3 pointers to triverse 3 arrays 
 
     int i=0, j=0, k=0;
 
-    // if all the pointers standing on same elements than i will store that pointer as a key in map to get uniqu element
-    unordered_map <int,int>table;
+    unordered_map <int,int>table; // Initilizing map to store all elements as key that element should not repeat
 
     vector<int>answer; //vector to save elements and return them
 
     while(i<n1 && j<n2 && k<n3){
 
-        if(A[i]==B[j] && B[j] == C[k]){
+        if(A[i]==B[j] && B[j] == C[k]){     // if all the pointers standing on same elements than i will store that pointer as a key in map to get uniqu element
 
-            int CommonElement = A[i];
+            int CommonElement = A[i]; //getting current element
 
             if(table[CommonElement] == 0)
             {
-                answer.push_back(CommonElement);
+                answer.push_back(CommonElement); //storing element if not present in map
             }
-            // but i need to increment the value of the key common element so it won't get pushed again
+            //here after getting the element store in answer vector i dont want it to puch back again so i will increment it's value
             table[CommonElement] = table[CommonElement] + 1;
 
             i++;
