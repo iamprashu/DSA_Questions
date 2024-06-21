@@ -5,11 +5,13 @@
 using namespace std;
 
 void FirstRepeatedelement(int arr[], int size){
-    //i am using unorderd map to get the occurance of elements
+    //In this Questions i am using map to get count of elements and than  i look into the map the first element that has count more than 1 i'll 
+    // return it.
 
-    unordered_map<int,int>table;
+
+    unordered_map<int,int>table;//Initilizing unorderd map
     
-    for(int i=0; i<size; i++){
+    for(int i=0; i<size; i++){//This will store count of each element that is present in array
         table[arr[i]] = table[arr[i]] + 1;
     }
 
