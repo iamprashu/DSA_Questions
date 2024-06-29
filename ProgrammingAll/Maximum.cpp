@@ -2,7 +2,7 @@
 using namespace std;
 
 void FindMax(int arr[], int size){
-    long int max=INT64_MIN;
+    long int max = -123456;
     for(int i=0; i<size; i++){
         int current_element=arr[i];
         if(current_element > max){

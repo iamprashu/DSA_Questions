@@ -2,11 +2,11 @@
 using namespace std;
 
 int FindUnique(int arr[], int n){
-    int ans;
+    int ans=0;
 
     for (int i = 0; i < n; i++)
     {
-        ans = ans ^ arr[i];
+        ans ^= arr[i];
     }
 
     return ans;
