@@ -17,7 +17,7 @@ int GetPiviotIndex(vector<int>arr){
                 return mid;
             }
 
-            if(arr[start] > arr[mid]){ // ass the element of left side array will be greater than right side array
+            if(arr[start] > arr[mid]){ // as the element of left side array will be greater than right side array
                 end = mid - 1; 
             }
             else{
